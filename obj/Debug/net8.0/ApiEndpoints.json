@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Saggezza_SuplierDeliveryService.Controllers.DeliveriesController",
+    "Method": "AddDelivery",
+    "RelativePath": "api/Deliveries/deliveries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "delivery",
+        "Type": "Saggezza_SuplierDeliveryService.Domain.Entities.Delivery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Saggezza_SuplierDeliveryService.Controllers.DeliveriesController",
+    "Method": "GetDeliveries",
+    "RelativePath": "api/Deliveries/deliveries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Saggezza_SuplierDeliveryService.Controllers.DeliveriesController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Deliveries/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Saggezza_SuplierDeliveryService.Domain.Entities.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Saggezza_SuplierDeliveryService.Controllers.DeliveriesController",
+    "Method": "AddSupplier",
+    "RelativePath": "api/Deliveries/suppliers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Saggezza_SuplierDeliveryService.Controllers.DeliveriesController\u002BSupplierRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Saggezza_SuplierDeliveryService.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Saggezza_SuplierDeliveryService.WeatherForecast, Saggezza-SuplierDeliveryService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

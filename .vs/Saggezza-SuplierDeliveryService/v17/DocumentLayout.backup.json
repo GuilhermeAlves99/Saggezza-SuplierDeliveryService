@@ -1,7 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\repos\\GuilhermeAlves99\\Saggezza-SuplierDeliveryService\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\interfaces\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\interfaces\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\infrastructure\\repositories\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:infrastructure\\repositories\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\entities\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\entities\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\application\\usecases\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:application\\usecases\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\domain\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:domain\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\application\\usecases\\createsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:application\\usecases\\createsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\infrastructure\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:infrastructure\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\application\\usecases\\createdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:application\\usecases\\createdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|c:\\users\\guilherme\\source\\repos\\saggezza-teste\\saggezza-suplierdeliveryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84A93541-3E7A-482F-9B2A-70D28D274DB5}|Saggezza-SuplierDeliveryService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +102,210 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDeliveryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\IDeliveryRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDeliveryRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\IDeliveryRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDeliveryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:04:04.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:00:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\DeliveryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DeliveryRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\DeliveryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DeliveryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:50:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Delivery.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Delivery.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Delivery.cs",
+              "RelativeToolTip": "Domain\\Entities\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:42:24.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Controllers\\DeliveriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeliveriesController.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Controllers\\DeliveriesController.cs",
+              "RelativeToolTip": "Controllers\\DeliveriesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAawFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:43:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:48:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:41:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateProduct.cs",
+              "RelativeToolTip": "Application\\UseCases\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:15:54.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:03:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Interfaces\\ISupplierRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:47:41.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Domain\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:00:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:34:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateDelivery.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CreateDelivery.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateDelivery.cs",
+              "RelativeToolTip": "Application\\UseCases\\CreateDelivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:40:49.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateSupplier.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CreateSupplier.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Application\\UseCases\\CreateSupplier.cs",
+              "RelativeToolTip": "Application\\UseCases\\CreateSupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:01:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\Infrastructure\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:00:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\Saggezza-Teste\\Saggezza-SuplierDeliveryService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T04:34:20.188Z"
             }
           ]
         }
